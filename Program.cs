@@ -33,7 +33,7 @@ namespace CSharpFundamentals
 
             float price = 29.95f;
             price.ToString("C");
-            price.ToString("C0"); //removes decimal
+            price.ToString("C0"); //removes decimal point
 
 
 
